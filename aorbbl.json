@@ -1,3 +1,23 @@
 {
-  "test": "ok"
+  "kh": {
+    "blockContents": [
+      { "title": "", "type": "youtube", "url": "" },
+      { "title": "", "type": "web", "url": "" }
+    ],
+    "tutorialVideos": [{ "title": "", "url": "" }],
+    "assetsUrl": {
+      "paymentQr": "",
+      "appLogo": "",
+      "tiktokLogo": "",
+      "douyinLogo": "",
+      "kuaishouLogo": "",
+      "shortsLogo": "",
+      "instagramLogo": "",
+      "editLogo": "",
+      "languageFlag": "",
+      "englishFlag": "",
+      "organizationDonate": ""
+    }
+  },
+  "th": {}
 }
