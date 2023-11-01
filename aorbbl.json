@@ -42,7 +42,8 @@
       },
       {
         "title": "ពត៌មានខ្លះៗត្រូវតែដឹងអំពី Tool",
-        "url": "https://youtu.be/T4SoZTussKc"
+        "url": "https://youtu.be/T4SoZTussKc",
+        "important" : true
       }
     ],
     "assetsUrl": {
