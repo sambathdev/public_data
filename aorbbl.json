@@ -71,7 +71,8 @@
       "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
       "adsurl": "https://en.wikipedia.org/",
       "freetoolurl": "https://www.youtube.com/embed/VR1hxEvhOrc?si=g6PLZ2nf2Th1Ml5c",
-      "clip": "https://www.youtube.com/watch?v=s8p1O5jzQHk"
+      "clip": "https://www.youtube.com/watch?v=s8p1O5jzQHk",
+      "homeJSX": "<h1 className='p-4'>home</h1>"
     }
   },
   "th": {}
