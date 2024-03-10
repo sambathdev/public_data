@@ -69,6 +69,7 @@
   "th": {},
   "v2": {
     "km": {
+      "currentVersion": 15,
       "tutorialVideos": [
         {
           "toolcode": "tiktok_video_downloader",
@@ -148,6 +149,7 @@
       }
     },
     "en": {
+      "currentVersion": 15,
       "tutorialVideos": [
         {
           "toolcode": "tiktok_video_downloader",
