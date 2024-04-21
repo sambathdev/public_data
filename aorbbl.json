@@ -243,5 +243,180 @@
     "th": {
       
     }
+  },
+  "v3": {
+    "km": {
+      "tutorialVideos": [
+        {
+          "toolcode": "tiktok_video_downloader",
+          "title": "របៀបដោនលោត Tiktok",
+          "url": "https://youtu.be/CvFDqojD-qY"
+        },
+        {
+          "toolcode": "kuaishou_video_downloader",
+          "title": "របៀបដោនលោត Kuaishou",
+          "url": "https://youtu.be/JUeRyFe4kzU"
+        },
+        {
+          "toolcode": "shorts_video_downloader",
+          "title": "របៀបដោនលោត Shorts",
+          "url": "https://youtu.be/-MQYBa4osh4"
+        },
+        {
+          "toolcode": "instagram_video_downloader",
+          "title": "របៀបដោនលោត Instagram",
+          "url": "https://youtu.be/60IrWFdtv38"
+        },
+        {
+          "toolcode": "video_editor",
+          "title": "របៀបកាត់វីឌីអូ",
+          "url": "https://youtu.be/9ty5fgyPYwo"
+        },
+        {
+          "toolcode": "photo_downloader",
+          "title": "របៀបដោនលោត Photo",
+          "url": "https://youtu.be/TwtAMXTXg2c"
+        },
+        {
+          "toolcode": "video_remove_code_renamer",
+          "title": "របៀបប្តូរឈ្មោះវីឌីអូមួយ Folder ក្រោយពេលដោនលោត Video",
+          "url": "https://youtu.be/T4SoZTussKc"
+        },
+        {
+          "toolcode": "video_editor_chop",
+          "title": "របៀបកាត់ វីឌីអូវែង ទៅជា វីឌីអូខ្លីៗ",
+          "url": "https://youtu.be/T4SoZTussKc"
+        },
+        {
+          "toolcode": "tag_generator",
+          "title": "របៀប Generate Tag",
+          "url": "https://youtu.be/_cwiRF4d6vo"
+        },
+        {
+          "toolcode": "title_tranlator",
+          "title": "របៀបប្រើ",
+          "url": "https://youtu.be/mi0qED-uhnk"
+        },
+        {
+          "toolcode": "how_to_activate",
+          "title": "របៀប Activate Key",
+          "url": "https://youtu.be/_cwiRF4d6vo"
+        },
+        {
+          "toolcode": "video_downloader_settings",
+          "title": "អ្វីជា Fixed Path Mode?",
+          "url": "https://youtu.be/f2btbSbIJIw"
+        },
+        {
+          "toolcode": "important_info",
+          "title": "ពត៌មានខ្លះៗត្រូវតែដឹងអំពី Tool",
+          "url": "https://youtu.be/1V8XCPTRbuk",
+          "important": true
+        }
+      ],
+      "assetsUrl": {
+        "storeUrl":"https://watchwatch.vercel.app/shop?fromtool=true",
+        "karaokeUrl":"https://watchwatch.vercel.app/karaoke?fromtool=true",
+        "dramaUrl":"https://watchwatch.vercel.app/drama?fromtool=true",
+        "requirementsZipUrl": "https://drive.usercontent.google.com/download?export=download&id=16PYSx-M2ATzBTVLzuzm1O9FR8yMxj83w",
+        "paymentQr": "https://i.imgur.com/XF8E55m.jpg",
+        "appLogo": "https://i.imgur.com/gjFWsSJ.jpg",
+        "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
+        "adsurl": "https://en.wikipedia.org/",
+        "usefultool":[
+          { "name": "Example", "url": "https://example.com" },
+          { "name": "2FA", "url": "https://2fa.live/" }
+        ],
+        "homeJsx": "<div className='p-4'> <p className='text-xl leading-9 text-slate-900'>ធូលនេះFreeសម្រាប់គ្រប់គ្នា អាចAuto Post Reels Video លើ LD Player បាន ម្ចាស់ធូលក៏មានលក់ធូលDownload Video 1 Profile និងកាត់Copyrightដែរ បើចង់ឲ្យថ្លៃកាហ្វេម្ចាស់ធូលអាចជួយទិញធូលDownload Video 1 Profile និងកាត់Copyrightបាន រឺតាមរយះ ABA 006 866 321 (SREY SAMBATH)</p> <a href='https://t.me/megagrabadmin' target='_blank'> <p className='my-4 text-slate-900 hover:text-blue-500 text-xl'>ទិញធូលDownload Video 1 Profile និងកាត់CopyrightពីAdmin ដើម្បីជួយSupport Admin</p> </a> <div className='flex gap-2'> <iframe width='560' height='315' src='https://www.youtube.com/embed/NbuyoblPfcQ?si=2ilgd_94-0e2KLuP' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe> <iframe width='560' height='315' src='https://www.youtube.com/embed/rzyQIks_PPo?si=Vu117HLdGjsEAzVo' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe> </div> <p className='mt-4 text-slate-900 text-xl'> សម្រាប់បងៗដែលចេះប្រើធូលនេះហើយសូមបងចូលក្នុងក្រុមTelegramដើម្បើជួយឆ្លើយសំណួរសម្រាប់បងៗដែលមិនទាន់ចេះប្រើផង <a href='https://t.me/megagrabautopost' target='_blank'> <p className='hover:text-blue-500'>Telegram Group</p> </a> </p> <p className='mt-4 text-center text-slate-900 text-2xl'>ជូនពរបងៗផ្ទុះបុងKKគ្រប់ៗគ្នា</p> </div>"
+      }
+    },
+    "en": {
+      "tutorialVideos": [
+        {
+          "toolcode": "tiktok_video_downloader",
+          "title": "របៀបដោនលោត Tiktok",
+          "url": "https://youtu.be/CvFDqojD-qY"
+        },
+        {
+          "toolcode": "kuaishou_video_downloader",
+          "title": "របៀបដោនលោត Kuaishou",
+          "url": "https://youtu.be/JUeRyFe4kzU"
+        },
+        {
+          "toolcode": "shorts_video_downloader",
+          "title": "របៀបដោនលោត Shorts",
+          "url": "https://youtu.be/-MQYBa4osh4"
+        },
+        {
+          "toolcode": "instagram_video_downloader",
+          "title": "របៀបដោនលោត Instagram",
+          "url": "https://youtu.be/60IrWFdtv38"
+        },
+        {
+          "toolcode": "video_editor",
+          "title": "របៀបកាត់វីឌីអូ",
+          "url": "https://youtu.be/9ty5fgyPYwo"
+        },
+        {
+          "toolcode": "photo_downloader",
+          "title": "របៀបដោនលោត Photo",
+          "url": "https://youtu.be/TwtAMXTXg2c"
+        },
+        {
+          "toolcode": "video_remove_code_renamer",
+          "title": "របៀបប្តូរឈ្មោះវីឌីអូមួយ Folder ក្រោយពេលដោនលោត Video",
+          "url": "https://youtu.be/T4SoZTussKc"
+        },
+        {
+          "toolcode": "video_editor_chop",
+          "title": "របៀបកាត់ វីឌីអូវែង ទៅជា វីឌីអូខ្លីៗ",
+          "url": "https://youtu.be/T4SoZTussKc"
+        },
+        {
+          "toolcode": "tag_generator",
+          "title": "របៀប Generate Tag",
+          "url": "https://youtu.be/_cwiRF4d6vo"
+        },
+        {
+          "toolcode": "title_tranlator",
+          "title": "របៀបប្រើ",
+          "url": "https://youtu.be/mi0qED-uhnk"
+        },
+        {
+          "toolcode": "how_to_activate",
+          "title": "របៀប Activate Key",
+          "url": "https://youtu.be/_cwiRF4d6vo"
+        },
+        {
+          "toolcode": "video_downloader_settings",
+          "title": "អ្វីជា Fixed Path Mode?",
+          "url": "https://youtu.be/f2btbSbIJIw"
+        },
+        {
+          "toolcode": "important_info",
+          "title": "ពត៌មានខ្លះៗត្រូវតែដឹងអំពី Tool",
+          "url": "https://youtu.be/1V8XCPTRbuk",
+          "important": true
+        }
+      ],
+      "assetsUrl": {
+        "storeUrl":"https://watchwatch.vercel.app/shop?fromtool=true",
+        "karaokeUrl":"https://watchwatch.vercel.app/karaoke?fromtool=true",
+        "dramaUrl":"https://watchwatch.vercel.app/drama?fromtool=true",
+        "requirementsZipUrl": "https://drive.usercontent.google.com/download?export=download&id=16PYSx-M2ATzBTVLzuzm1O9FR8yMxj83w",
+        "paymentQr": "https://i.imgur.com/XF8E55m.jpg",
+        "appLogo": "https://i.imgur.com/gjFWsSJ.jpg",
+        "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
+        "adsurl": "https://en.wikipedia.org/",
+        "usefultool":[
+          { "name": "Example", "url": "https://example.com" },
+          { "name": "2FA", "url": "https://2fa.live/" }
+        ],
+        "homeJsx": "<div className='p-4'> <p className='text-xl leading-9 text-slate-900'>ធូលនេះFreeសម្រាប់គ្រប់គ្នា អាចAuto Post Reels Video លើ LD Player បាន ម្ចាស់ធូលក៏មានលក់ធូលDownload Video 1 Profile និងកាត់Copyrightដែរ បើចង់ឲ្យថ្លៃកាហ្វេម្ចាស់ធូលអាចជួយទិញធូលDownload Video 1 Profile និងកាត់Copyrightបាន រឺតាមរយះ ABA 006 866 321 (SREY SAMBATH)</p> <a href='https://t.me/megagrabadmin' target='_blank'> <p className='my-4 text-slate-900 hover:text-blue-500 text-xl'>ទិញធូលDownload Video 1 Profile និងកាត់CopyrightពីAdmin ដើម្បីជួយSupport Admin</p> </a> <div className='flex gap-2'> <iframe width='560' height='315' src='https://www.youtube.com/embed/NbuyoblPfcQ?si=2ilgd_94-0e2KLuP' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe> <iframe width='560' height='315' src='https://www.youtube.com/embed/rzyQIks_PPo?si=Vu117HLdGjsEAzVo' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe> </div> <p className='mt-4 text-slate-900 text-xl'> សម្រាប់បងៗដែលចេះប្រើធូលនេះហើយសូមបងចូលក្នុងក្រុមTelegramដើម្បើជួយឆ្លើយសំណួរសម្រាប់បងៗដែលមិនទាន់ចេះប្រើផង <a href='https://t.me/megagrabautopost' target='_blank'> <p className='hover:text-blue-500'>Telegram Group</p> </a> </p> <p className='mt-4 text-center text-slate-900 text-2xl'>ជូនពរបងៗផ្ទុះបុងKKគ្រប់ៗគ្នា</p> </div>"
+      }
+    },
+    "th": {
+      
+    }
   }
 }
