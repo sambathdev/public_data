@@ -279,7 +279,7 @@
         },
         {
           "toolcode": "video_remove_code_renamer",
-          "title": "របៀបប្តូរឈ្មោះវីឌីអូមួយ Folder ក្រោយពេលដោនលោត Video",
+          "title": "របៀបលុប Video ID ក្រោយពេលដោនលោត Video",
           "url": "https://youtu.be/T4SoZTussKc"
         },
         {
@@ -294,7 +294,7 @@
         },
         {
           "toolcode": "title_tranlator",
-          "title": "របៀបប្រើ",
+          "title": "របៀបបកប្រែ",
           "url": "https://youtu.be/mi0qED-uhnk"
         },
         {
@@ -306,12 +306,6 @@
           "toolcode": "video_downloader_settings",
           "title": "អ្វីជា Fixed Path Mode?",
           "url": "https://youtu.be/f2btbSbIJIw"
-        },
-        {
-          "toolcode": "important_info",
-          "title": "ពត៌មានខ្លះៗត្រូវតែដឹងអំពី Tool",
-          "url": "https://youtu.be/1V8XCPTRbuk",
-          "important": true
         }
       ],
       "assetsUrl": {
@@ -391,12 +385,6 @@
           "toolcode": "video_downloader_settings",
           "title": "អ្វីជា Fixed Path Mode?",
           "url": "https://youtu.be/f2btbSbIJIw"
-        },
-        {
-          "toolcode": "important_info",
-          "title": "ពត៌មានខ្លះៗត្រូវតែដឹងអំពី Tool",
-          "url": "https://youtu.be/1V8XCPTRbuk",
-          "important": true
         }
       ],
       "assetsUrl": {
