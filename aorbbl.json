@@ -139,15 +139,15 @@
         }
       ],
       "assetsUrl": {
-        "storeUrl": "https://watchwatch.vercel.app/shop?fromtool=true",
-        "karaokeUrl": "https://watchwatch.vercel.app/karaoke?fromtool=true",
-        "dramaUrl": "https://watchwatch.vercel.app/drama?fromtool=true",
+        "storeUrl":"https://watchwatch.vercel.app/shop?fromtool=true",
+        "karaokeUrl":"https://watchwatch.vercel.app/karaoke?fromtool=true",
+        "dramaUrl":"https://watchwatch.vercel.app/drama?fromtool=true",
         "requirementsZipUrl": "https://drive.usercontent.google.com/download?export=download&id=16PYSx-M2ATzBTVLzuzm1O9FR8yMxj83w",
         "paymentQr": "https://i.imgur.com/XF8E55m.jpg",
         "appLogo": "https://i.imgur.com/gjFWsSJ.jpg",
         "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
         "adsurl": "https://en.wikipedia.org/",
-        "usefultool": [
+        "usefultool":[
           { "name": "Example", "url": "https://example.com" },
           { "name": "2FA", "url": "https://2fa.live/" }
         ],
@@ -225,22 +225,24 @@
         }
       ],
       "assetsUrl": {
-        "storeUrl": "https://watchwatch.vercel.app/shop?fromtool=true",
-        "karaokeUrl": "https://watchwatch.vercel.app/karaoke?fromtool=true",
-        "dramaUrl": "https://watchwatch.vercel.app/drama?fromtool=true",
+        "storeUrl":"https://watchwatch.vercel.app/shop?fromtool=true",
+        "karaokeUrl":"https://watchwatch.vercel.app/karaoke?fromtool=true",
+        "dramaUrl":"https://watchwatch.vercel.app/drama?fromtool=true",
         "requirementsZipUrl": "https://drive.usercontent.google.com/download?export=download&id=16PYSx-M2ATzBTVLzuzm1O9FR8yMxj83w",
         "paymentQr": "https://i.imgur.com/XF8E55m.jpg",
         "appLogo": "https://i.imgur.com/gjFWsSJ.jpg",
         "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
         "adsurl": "https://en.wikipedia.org/",
-        "usefultool": [
+        "usefultool":[
           { "name": "Example", "url": "https://example.com" },
           { "name": "2FA", "url": "https://2fa.live/" }
         ],
         "homeJsx": "<div className='p-4'> <p className='text-xl leading-9 text-slate-900'>ធូលនេះFreeសម្រាប់គ្រប់គ្នា អាចAuto Post Reels Video លើ LD Player បាន ម្ចាស់ធូលក៏មានលក់ធូលDownload Video 1 Profile និងកាត់Copyrightដែរ បើចង់ឲ្យថ្លៃកាហ្វេម្ចាស់ធូលអាចជួយទិញធូលDownload Video 1 Profile និងកាត់Copyrightបាន រឺតាមរយះ ABA 006 866 321 (SREY SAMBATH)</p> <a href='https://t.me/megagrabadmin' target='_blank'> <p className='my-4 text-slate-900 hover:text-blue-500 text-xl'>ទិញធូលDownload Video 1 Profile និងកាត់CopyrightពីAdmin ដើម្បីជួយSupport Admin</p> </a> <div className='flex gap-2'> <iframe width='560' height='315' src='https://www.youtube.com/embed/NbuyoblPfcQ?si=2ilgd_94-0e2KLuP' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe> <iframe width='560' height='315' src='https://www.youtube.com/embed/rzyQIks_PPo?si=Vu117HLdGjsEAzVo' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe> </div> <p className='mt-4 text-slate-900 text-xl'> សម្រាប់បងៗដែលចេះប្រើធូលនេះហើយសូមបងចូលក្នុងក្រុមTelegramដើម្បើជួយឆ្លើយសំណួរសម្រាប់បងៗដែលមិនទាន់ចេះប្រើផង <a href='https://t.me/megagrabautopost' target='_blank'> <p className='hover:text-blue-500'>Telegram Group</p> </a> </p> <p className='mt-4 text-center text-slate-900 text-2xl'>ជូនពរបងៗផ្ទុះបុងKKគ្រប់ៗគ្នា</p> </div>"
       }
     },
-    "th": {}
+    "th": {
+      
+    }
   },
   "v3": {
     "km": {
@@ -307,15 +309,15 @@
         }
       ],
       "assetsUrl": {
-        "storeUrl": "https://watchwatch.vercel.app/shop?fromtool=true",
-        "karaokeUrl": "https://watchwatch.vercel.app/karaoke?fromtool=true",
-        "dramaUrl": "https://watchwatch.vercel.app/drama?fromtool=true",
+        "storeUrl":"https://watchwatch.vercel.app/shop?fromtool=true",
+        "karaokeUrl":"https://watchwatch.vercel.app/karaoke?fromtool=true",
+        "dramaUrl":"https://watchwatch.vercel.app/drama?fromtool=true",
         "requirementsZipUrl": "https://drive.usercontent.google.com/download?export=download&id=16PYSx-M2ATzBTVLzuzm1O9FR8yMxj83w",
         "paymentQr": "https://i.imgur.com/XF8E55m.jpg",
         "appLogo": "https://i.imgur.com/gjFWsSJ.jpg",
         "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
         "adsurl": "https://watchwatch.vercel.app/megagrab_info",
-        "usefultool": [
+        "usefultool":[
           { "name": "Photo Downloader Script", "url": "https://watchwatch.vercel.app/list_code_crawling?fromtool=true" },
           { "name": "2FA Generator", "url": "https://watchwatch.vercel.app/2fa?fromtool=true" }
         ],
@@ -386,21 +388,23 @@
         }
       ],
       "assetsUrl": {
-        "storeUrl": "https://watchwatch.vercel.app/shop?fromtool=true",
-        "karaokeUrl": "https://watchwatch.vercel.app/karaoke?fromtool=true",
-        "dramaUrl": "https://watchwatch.vercel.app/drama?fromtool=true",
+        "storeUrl":"https://watchwatch.vercel.app/shop?fromtool=true",
+        "karaokeUrl":"https://watchwatch.vercel.app/karaoke?fromtool=true",
+        "dramaUrl":"https://watchwatch.vercel.app/drama?fromtool=true",
         "requirementsZipUrl": "https://drive.usercontent.google.com/download?export=download&id=16PYSx-M2ATzBTVLzuzm1O9FR8yMxj83w",
         "paymentQr": "https://i.imgur.com/XF8E55m.jpg",
         "appLogo": "https://i.imgur.com/gjFWsSJ.jpg",
         "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
         "adsurl": "https://watchwatch.vercel.app/megagrab_info",
-        "usefultool": [
+        "usefultool":[
           { "name": "Photo Downloader Script", "url": "https://watchwatch.vercel.app/list_code_crawling?fromtool=true" },
           { "name": "2FA Generator", "url": "https://watchwatch.vercel.app/2fa?fromtool=true" }
         ],
         "homeJsx": "<div className='p-4'> <p className='text-xl leading-9 text-slate-900'>ធូលនេះFreeសម្រាប់គ្រប់គ្នា អាចAuto Post Reels Video លើ LD Player បាន ម្ចាស់ធូលក៏មានលក់ធូលDownload Video 1 Profile និងកាត់Copyrightដែរ បើចង់ឲ្យថ្លៃកាហ្វេម្ចាស់ធូលអាចជួយទិញធូលDownload Video 1 Profile និងកាត់Copyrightបាន រឺតាមរយះ ABA 006 866 321 (SREY SAMBATH)</p> <a href='https://t.me/megagrabadmin' target='_blank'> <p className='my-4 text-slate-900 hover:text-blue-500 text-xl'>ទិញធូលDownload Video 1 Profile និងកាត់CopyrightពីAdmin ដើម្បីជួយSupport Admin</p> </a> <div className='flex gap-2'> <iframe width='560' height='315' src='https://www.youtube.com/embed/NbuyoblPfcQ?si=2ilgd_94-0e2KLuP' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe> <iframe width='560' height='315' src='https://www.youtube.com/embed/rzyQIks_PPo?si=Vu117HLdGjsEAzVo' title='YouTube video player' frameBorder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowFullScreen></iframe> </div> <p className='mt-4 text-slate-900 text-xl'> សម្រាប់បងៗដែលចេះប្រើធូលនេះហើយសូមបងចូលក្នុងក្រុមTelegramដើម្បើជួយឆ្លើយសំណួរសម្រាប់បងៗដែលមិនទាន់ចេះប្រើផង <a href='https://t.me/megagrabautopost' target='_blank'> <p className='hover:text-blue-500'>Telegram Group</p> </a> </p> <p className='mt-4 text-center text-slate-900 text-2xl'>ជូនពរបងៗផ្ទុះបុងKKគ្រប់ៗគ្នា</p> </div>"
       }
     },
-    "th": {}
+    "th": {
+      
+    }
   }
 }
