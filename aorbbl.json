@@ -484,7 +484,8 @@
         "paymentQr": "https://i.imgur.com/XF8E55m.jpg",
         "appLogo": "https://i.imgur.com/gjFWsSJ.jpg",
         "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
-        "adsurl": "https://watchwatch.vercel.app/megagrab_info",
+        "adsUrl": "https://watchwatch.vercel.app/drama?gg=kk",
+        "announceUrl": "https://watchwatch.vercel.app/megagrab_info?gg=kk",
         "usefultool":[
           { "name": "Photo Downloader Script", "url": "https://watchwatch.vercel.app/list_code_crawling?fromtool=true" },
           { "name": "2FA Generator", "url": "https://watchwatch.vercel.app/2fa?fromtool=true" }
@@ -580,7 +581,8 @@
         "paymentQr": "https://i.imgur.com/XF8E55m.jpg",
         "appLogo": "https://i.imgur.com/gjFWsSJ.jpg",
         "organizationDonate": "https://i.imgur.com/qKqpwGX.jpg",
-        "adsurl": "https://watchwatch.vercel.app/megagrab_info",
+        "adsUrl": "https://watchwatch.vercel.app/drama?gg=kk",
+        "announceUrl": "https://watchwatch.vercel.app/megagrab_info?gg=kk",
         "usefultool":[
           { "name": "Photo Downloader Script", "url": "https://watchwatch.vercel.app/list_code_crawling?fromtool=true" },
           { "name": "2FA Generator", "url": "https://watchwatch.vercel.app/2fa?fromtool=true" }
