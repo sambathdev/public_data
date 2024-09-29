@@ -495,12 +495,12 @@
         "video": {
           "instagram": "scripts video instagram",
           "shorts": "scripts video shorts",
-          "kuaishou": "scripts video kuaishoy",
+          "kuaishou": "scripts video kuaishoy"
         },
         "photo": {
           "instagram": "script photo instagram",
           "facebook": "script photo facebook",
-          "pinterest": "script photo pinterest",
+          "pinterest": "script photo pinterest"
         }
       }
     },
@@ -591,12 +591,12 @@
         "video": {
           "instagram": "scripts video instagram",
           "shorts": "scripts video shorts",
-          "kuaishou": "scripts video kuaishoy",
+          "kuaishou": "scripts video kuaishoy"
         },
         "photo": {
           "instagram": "script photo instagram",
           "facebook": "script photo facebook",
-          "pinterest": "script photo pinterest",
+          "pinterest": "script photo pinterest"
         }
       }
     },
