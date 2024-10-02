@@ -7,6 +7,11 @@
           "url": "https://youtu.be/CvFDqojD-qY"
         },
         {
+          "toolcode": "tool_subscription",
+          "title": "របៀបទិញTool",
+          "url": "https://youtu.be/CvFDqojD-qY"
+        },
+        {
           "toolcode": "tiktok_video_downloader",
           "title": "របៀបដោនលោត Tiktok",
           "url": "https://youtu.be/CvFDqojD-qY"
@@ -103,6 +108,11 @@
     },
     "en": {
       "tutorialVideos": [
+        {
+          "toolcode": "tool_subscription",
+          "title": "How To Get License",
+          "url": "https://youtu.be/CvFDqojD-qY"
+        },
         {
           "toolcode": "tool_instruction",
           "title": "How to Use Tool Features",
