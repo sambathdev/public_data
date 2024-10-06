@@ -101,11 +101,14 @@
       "scripts": {
         "video": {
           "instagram": "scripts video instagram",
+          "threads": "scripts video threads",
           "shorts": "scripts video shorts",
+          "facebook": "scripts video facebook",
           "kuaishou": "scripts video kuaishoy"
         },
         "photo": {
           "instagram": "script photo instagram",
+          "threads": "scripts photo threads",
           "facebook": "script photo facebook",
           "pinterest": "script photo pinterest"
         }
@@ -213,11 +216,14 @@
       "scripts": {
         "video": {
           "instagram": "scripts video instagram",
+          "threads": "scripts video threads",
           "shorts": "scripts video shorts",
+          "facebook": "scripts video facebook",
           "kuaishou": "scripts video kuaishoy"
         },
         "photo": {
           "instagram": "script photo instagram",
+          "threads": "scripts photo threads",
           "facebook": "script photo facebook",
           "pinterest": "script photo pinterest"
         }
