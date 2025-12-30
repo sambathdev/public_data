@@ -1,8 +1,9 @@
 {
   "announcementUrl": "",
   "adsUrl": "",
+  "storeUrl": "https://example.com/",
   "ui": {
-    "flickInfo": true,
+    "awareInfoUpdate": true,
     "theme": ""
   }
 }
