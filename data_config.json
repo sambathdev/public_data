@@ -3,6 +3,7 @@
   "adsUrl": "",
   "storeUrl": "",
   "tutorialUrl": "https://www.youtube.com/embed/LiUcCeFYgOc?si=TrLDKmfVI0IRTziW",
+  "telegramAdmin": "https://t.me/sambath_dev",
   "ui": {
     "awareInfoUpdate": true,
     "theme": ""
