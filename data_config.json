@@ -1,7 +1,8 @@
 {
   "announcementUrl": "",
   "adsUrl": "",
-  "storeUrl": "https://example.com/",
+  "storeUrl": "",
+  "tutorialUrl": "https://www.youtube.com/embed/LiUcCeFYgOc?si=TrLDKmfVI0IRTziW",
   "ui": {
     "awareInfoUpdate": true,
     "theme": ""
